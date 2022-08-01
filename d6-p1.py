@@ -1,4 +1,5 @@
 # D6 - P1 Answer = 383160
+# 9 = 0 + 2, 10 = 1 + 3, and so on
 
 from collections import deque
 
